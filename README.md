@@ -1,6 +1,6 @@
 # theatretime
 
-A project exhibition project.
+A Comprehensive Movie streaming App project.
 
 ## Getting Started
 
